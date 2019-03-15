@@ -1,5 +1,6 @@
 # homebrew-brew
 
 ```shell
-$ brew install crispgm/brew/lark
+$ brew tap crispgm/brew
+$ brew cask install lark
 ```
